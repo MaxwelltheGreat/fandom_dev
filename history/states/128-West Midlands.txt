@@ -1,31 +1,24 @@
 
 state={
-	id=130
-	name="STATE_130"
-	manpower = 4762495
+	id=128
+	name="STATE_128"
+	manpower = 3685235
 	
 	state_category = metropolis
-	
 	resources={
-		steel=71 # was: 120
+		steel=27 # was: 48
 	}
 
 	history={
 		owner = SHR
-		victory_points = {
-			9379 15 
-		}
-		victory_points = {
-			11297 10 
-		}
 		buildings = {
-			infrastructure = 7
+			infrastructure = 8
 			arms_factory = 2
 			industrial_complex = 3
-			air_base = 10
-			11297 = {
-				naval_base = 5
-			}
+			air_base = 6
+		}
+		victory_points = {
+			9297 25
 		}
 		add_core_of = SHR
 		1939.1.1 = {
@@ -37,6 +30,6 @@ state={
 	}
 
 	provinces={
-		6268 9269 9315 9332 9379 9397 11297 11317 11382 
+		3241 3301 6270 6301 7239 9297 11345 
 	}
 }
