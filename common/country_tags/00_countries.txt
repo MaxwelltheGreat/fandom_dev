@@ -1,1 +1,2 @@
 SHR	= "countries/Shararam.txt"
+WAR	= "countries/Warhammer.txt"
