@@ -1,2 +1,5 @@
 SHR	= "countries/Shararam.txt"
 WAR	= "countries/Warhammer.txt"
+CMW	= "countries/Yura.txt"
+FLT	= "countries/Fallout.txt"
+TES	= "countries/Scrolls.txt"

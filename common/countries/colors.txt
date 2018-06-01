@@ -4,3 +4,15 @@ SHR = {
 	color = rgb { 237 152 18 }
 	color_ui = rgb { 224 139 5 }
 }
+CMW = {
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 255 255 255 }
+}
+FLT = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 71 113 97 }
+}
+TES = {
+	color = rgb { 128 128 128 }
+	color_ui = rgb { 128 128 128 }
+}
