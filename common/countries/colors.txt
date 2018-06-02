@@ -16,3 +16,15 @@ TES = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128 }
 }
+AVA = {
+	color = rgb { 114 148 80 }
+	color_ui = rgb { 222 247 198 }
+}
+ANG = {
+	color = rgb { 224 5 5 }
+	color_ui = rgb { 193 81 81 }
+}
+GOT = {
+	color = rgb { 153 116 93 }
+	color_ui = rgb { 199 151 121 }
+}
