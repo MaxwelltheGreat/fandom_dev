@@ -2,7 +2,7 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 1936.1.1.12
+		date = 2017.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "SHR"
 		default = yes
@@ -19,6 +19,33 @@ bookmarks = {
 				tizard_mission_focus
 				ENG_war_with_germany
 				ENG_war_with_italy
+			}
+		}
+		
+		"WAR"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"MES"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"WWI"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
 			}
 		}
 

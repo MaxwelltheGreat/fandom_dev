@@ -20,7 +20,7 @@ AVA = {
 	color = rgb { 114 148 80 }
 	color_ui = rgb { 222 247 198 }
 }
-ANG = {
+ANB = {
 	color = rgb { 224 5 5 }
 	color_ui = rgb { 193 81 81 }
 }
