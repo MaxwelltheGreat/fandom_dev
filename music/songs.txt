@@ -109,6 +109,19 @@ music = {
 	}	
 }
 
+music = {
+	song = "hort"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}		
+	}	
+}
+
 # WAR SONGS ####################
 
 music = {
