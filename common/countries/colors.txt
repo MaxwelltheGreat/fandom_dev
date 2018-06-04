@@ -28,3 +28,15 @@ GOT = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
+WOW = {
+	color = rgb { 76 145 63 }
+	color_ui = rgb { 99 189 82 }
+}
+BOS = {
+	color = rgb { 255 120 71 }
+	color_ui = rgb { 255 120 71 }
+}
+GTA = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
+}
