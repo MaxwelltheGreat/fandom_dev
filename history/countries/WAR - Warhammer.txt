@@ -1,6 +1,6 @@
 ﻿capital = 485  
 
-oob = "WAR_1936"
+oob = "WAR_2017"
 
 set_research_slots = 3
 set_stability = 0.8

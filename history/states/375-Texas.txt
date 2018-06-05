@@ -25,17 +25,12 @@ state={
 			6785 = {
 				naval_base = 1
 			}
-		}
-		add_core_of = WFB
-		victory_points = {
-			10337 10
+		 
 		}
 		victory_points = {
 			3960 10 
 		}
-		victory_points = {
-			12782 1 
-		}
+		 
 
 	}
 
