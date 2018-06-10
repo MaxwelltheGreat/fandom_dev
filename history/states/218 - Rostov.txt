@@ -1,0 +1,30 @@
+state={
+	id=218
+	name="STATE_218"
+	manpower = 744000
+	
+	
+	state_category = rural
+	
+	resources={
+		steel=15 # was: 20
+	}
+
+	history={
+		owner = SPO
+		victory_points = {
+			9417 5 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			9417 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces={
+		9430 6445 11559 585 9417 11434 11418 11450 
+	}
+}
