@@ -1,0 +1,23 @@
+ideas = {
+
+	country = {
+		tscope = {
+			
+			allowed = {
+				original_tag = SHR
+				OR = {
+				    has_government = neutrality
+					has_government = democratic
+				}
+			}
+
+			allowed_civil_war = {
+			}
+			
+			removal_cost = -1
+			
+			traits = { tsar }
+		}
+	}
+}
+

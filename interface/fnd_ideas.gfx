@@ -1,0 +1,10 @@
+spriteTypes = {	
+
+
+
+	SpriteType = {
+		name = "GFX_idea_tscope"
+		texturefile = "gfx/interface/ideas/idea_tscope.dds"
+	}
+
+}
