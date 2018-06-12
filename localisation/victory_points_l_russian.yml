@@ -1,7 +1,7 @@
 ﻿l_russian:
  VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! победных очков = §Y$POINTS$§!"
  VICTORY_POINTS_6521:0 "Берлин"
- VICTORY_POINTS_692:0 "Мюнхен"
+ VICTORY_POINTS_692:0 "Форум"
  VICTORY_POINTS_6469:0 "Эссен"
  VICTORY_POINTS_9347:0 "Гамбург"
  VICTORY_POINTS_9570:0 "Бреслау"
@@ -579,4 +579,5 @@
  VICTORY_POINTS_7552:0 "Мидденхейм"
  VICTORY_POINTS_9786:0 "Убежище 101"
  VICTORY_POINTS_4887:0 "Святая Терра"
- 
+ VICTORY_POINTS_9517:0 "Заявки"
+ VICTORY_POINTS_692:0 "Состав"
