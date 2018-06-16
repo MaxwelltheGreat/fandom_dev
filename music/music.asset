@@ -2,7 +2,24 @@
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "fnd_Internationale.ogg"
+	file = "fnd_derheimlicheaufmarsh.ogg"
+	volume = 0.65
+}
+
+# FUN SONGS
+music = {
+	name = "inter"
+	file = "fnd_internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "horst"
+	file = "fnd_horstwessellied.ogg"
+	volume = 0.65
+}
+music = {
+	name = "maintheme_old"
+	file = "hoi4mainthemeallies.ogg"
 	volume = 0.65
 }
 
@@ -47,11 +64,6 @@ music = {
 	file = "endofthetour.ogg"
 	volume = 0.65
 }
-music = {
-	name = "maintheme1"
-	file = "hoi4mainthemeallies.ogg"
-	volume = 0.65
-}
 
 
 # Allies War:
@@ -76,11 +88,6 @@ music = {
 music = {
 	name = "axis_peace_2"
 	file = "luftwaffemarch_reprise.ogg"
-	volume = 0.65
-}
-music = {
-	name = "axis_hort"
-	file = "fnd_hortwessellied.ogg"
 	volume = 0.65
 }
 

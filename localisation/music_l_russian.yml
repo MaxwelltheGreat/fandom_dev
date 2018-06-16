@@ -1,7 +1,4 @@
 ﻿l_russian:
- maintheme:0 "Интернационал"
- hort:0 "Horst-Wessel-Lied"
- maintheme1:0 "Главная тема - Союзники"
  axis_war_1:0 "Тема Оси"
  allies_peace_1:0 "Утро дня «Д»"
  general_war_1:0 "Отправляйте танки"
@@ -24,3 +21,7 @@
  comintern_peace_3:0 "Русская победа"
  general_peace_2:0 "Окончание войны"
  # NEW MUSIC NAMES HERE BELOW
+ maintheme:0 "Der Heimliche Aufmarsh"
+ maintheme_old:0 "Главная тема - Союзники"
+ inter:0 "Интернационал"
+ horst:0 "Horst-Wessel-Lied"
